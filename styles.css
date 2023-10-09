@@ -46,59 +46,61 @@ img {
 }
 .weddingcake{
        background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
+       float: left;
+       display: inline;
        
 }
    .mediumcake {
          background-color: azure;
-         height: 300px;
+         height: auto;
          width: 300px;
          background-size: 350px;
    }
    .meatpie {
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
        
    }
    .foodtray {
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
    }
    .food_tray {
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
        
    }
    .doughnut{
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
    }
    .chicken_pie{
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
    
    }
    .cakes{
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
    }
    .cakeparfait{
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
        
@@ -106,13 +108,13 @@ img {
    }
    .cake_parfait{
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
    }
    .birthday_cake_sample{
     background-color: azure;
-       height: 300px;
+       height: auto;
        width: 300px;
        background-size: 350px;
        
