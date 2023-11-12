@@ -171,6 +171,10 @@ th {
        text-align: center;
    }
    
-
+form label{
+    display: block;
+    padding-top: 10px;
+    margin-top: 10px;
+}
    
 /***************************ID SELECTORS*****************************/
